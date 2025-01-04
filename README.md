@@ -204,15 +204,6 @@ The user interface consists of an HTML form for uploading images.
 </html>
 ```
 
----
-
-## Example Outputs
-### Input: Grayscale Image
-![Grayscale Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Grayscale_8bits_palette_sample_image.png/320px-Grayscale_8bits_palette_sample_image.png)
-
-### Output: Colorized Image
-![Colorized Image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Color_example.png/320px-Color_example.png)
-
 
 ---
 
